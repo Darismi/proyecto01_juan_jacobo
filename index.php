@@ -20,7 +20,7 @@
                         echo "estás en el curso: $curso"
                     ?>
                 </p>
-                <img src="/assets/img/piezas-de-construccion.jpg">
+                <img src="/assets/img/piezas-de-construccion.jpg" width="300" heigth="300">
             </div>
 
             
