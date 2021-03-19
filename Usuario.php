@@ -3,15 +3,13 @@
 class Usuario {
 
 	public $nombre;	
-	public $apellido ;
-	
-	
+	public $apellido;
+		
 	
 	public function __construct($nom, $ape) {
 		$nombre = $nom;		
 		$apellido = $ape;		
-	}
-	
+	}	
 
 	public function saludar() {
 		echo "Hola ".$this->nombre." ".$this->apellido;
