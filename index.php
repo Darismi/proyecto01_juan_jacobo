@@ -20,6 +20,7 @@
                         echo "estás en el curso: $curso"
                     ?>
                 </p>
+                <a href="ClasesObjetos.php">Clases y objetos</a>
                 <img src="/assets/img/piezas-de-construccion.jpg" width="300" heigth="300">
             </div>
 
