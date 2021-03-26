@@ -14,6 +14,7 @@
         require 'Honda.php';
         require 'Toyota.php';
         require 'MiniCar.php';
+        require 'Administrador.php';
     ?>
 
     <?php
@@ -49,6 +50,7 @@
         echo "El color de toyota es ".$toyota1->getColor().".";
         */
 
+        /*
         $carro1 = new MiniCar();
         $carro1 -> setModel("Modelo AX");
         echo "Modelo: ".$carro1->getModel();
@@ -59,6 +61,12 @@
         echo "<br />";
         echo "¿Tiene llantas? ".$carro1->getTieneLlantas();
         echo "<br />";
+        */
+
+        $admin1 = new Administrador();
+        $admin1->nombre = "Pedro";
+        $admin1->apellido = "Romero";
+        $admin1->saludar();
 
     ?>    
 </body>
