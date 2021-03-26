@@ -9,11 +9,11 @@
 <body>
 	<?php
         require 'Car.php';
-        //require 'Usuario.php';
+        require 'Usuario.php';
     ?>
 
     <?php
-    /*
+    
         $usuario1 = new Usuario("","");
         $usuario2 = new Usuario("","");
         $usuario3 = new Usuario("","");
@@ -39,10 +39,10 @@
         $usuario3->getNombre();
 
         $usuario5->getNombreCompleto();
-    */
+    
 
 
-        
+    /*    
         $mercedes = new Car("BMW-1000");  
         $bmw = new Car("mod-2");
         $audi = new Car("AudiZ10");
@@ -96,6 +96,7 @@
         echo "<br/><br/>Imprimiendo modelos: <br/>".$bmw -> getModelo() . "<br/>".
         $mercedes ->getModelo()."<br/>". $audi->getModelo()."<br/>".
         $carro1->getModelo()."<br/>".$carro2->getModelo()."<br/>".$carro3->getModelo()."<br/>";
+        */
     ?>
 </body>
 </html>

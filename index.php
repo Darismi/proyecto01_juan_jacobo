@@ -21,6 +21,8 @@
                     ?>
                 </p>
                 <a href="ClasesObjetos.php">Clases y objetos</a>
+                <br><br>
+                <a href="HerenClsAbsInter.php">Herencia, Clases Abstractas, Interfaces</a>
                 <img src="/assets/img/piezas-de-construccion.jpg" width="300" heigth="300">
             </div>
 
