@@ -43,7 +43,7 @@
 
         $toyota1 -> setContenidoTanque(10);
 
-        echo "Con el tanque lleno el toyota recorre ".$toyota->calcNumKilomConTanqueLleno();
+        echo "Con el tanque lleno el toyota recorre ".$toyota1->calcNumKilomConTanqueLleno();
         echo "El color de toyota es ".$toyota1->getColor().".";
 
     ?>    

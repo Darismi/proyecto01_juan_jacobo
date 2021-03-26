@@ -4,7 +4,7 @@
     class Deportivo extends Car{
         private $estilo = "Rápido y furioso";
         public $tieneCapota = false;
-        protected $modelo = "modificado";
+        public $modelo = "modificado";
 
         public function conducirConEstilo(){
             return "Conducir un ".$this->getModelo(). "<i>" .$this->estilo. "</i>";
