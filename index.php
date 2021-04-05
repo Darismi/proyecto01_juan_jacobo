@@ -23,8 +23,11 @@
                 <a href="ClasesObjetos.php">Clases y objetos</a>
                 <br><br>
                 <a href="HerenClsAbsInter.php">Herencia, Clases Abstractas, Interfaces</a>
+                <br><br>               
+                <a href="clase_4/Trabajo4Index.php">Herencia y sobrecarga</a>
                 <br><br>
-                <a href="clase_4/Trabajo4Index.php">Herencia y sobrecarga, acoplamiento, cohesion, polimorfismo</a>
+                <a href="clase_4_2/Trabajo4-2Index.php">acoplamiento, cohesion, polimorfismo</a>
+                <br><br>
                 <img src="/assets/img/piezas-de-construccion.jpg" width="300" heigth="300">
             </div>
 
