@@ -1,5 +1,5 @@
 <?php
-    interface class ProgramadorFrontend {
+    abstract class ProgramadorFrontend {
         
         abstract public function agregarLenguajeDeProgramacionFrontend($lenguaje);
 

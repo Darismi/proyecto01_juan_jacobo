@@ -1,5 +1,5 @@
 <?php
-    interface class ProgramadorBackend {
+    interface ProgramadorBackend {
         
         public function agregarLenguajeDeProgramacionBackend($lenguaje);
 
