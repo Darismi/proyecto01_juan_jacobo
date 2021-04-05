@@ -1,6 +1,6 @@
 <?php
 
-class Usuario {
+class Usuario { // :c
 
 	public $nombre;	
 	public $apellido;
@@ -11,7 +11,7 @@ class Usuario {
 		$apellido = $ape;		
 	}	
 
-	public function saludar() {
+	final public function saludar() {
 		echo "Hola ".$this->nombre." ".$this->apellido;
 	}
 
@@ -28,8 +28,16 @@ class Usuario {
 		$this->nombre = $nom;
 	}
 
+	public function setApellido($ape) {
+		$this->nombre = $ape;
+	}
+
 	public function getNombre() {
 		return $this->nombre;
+	}
+
+	public function getApellido() {
+		return $this->apellido;
 	}
 
 	public function getNombreCompleto(){
