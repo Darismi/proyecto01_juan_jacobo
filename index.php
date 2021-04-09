@@ -26,9 +26,11 @@
                 <br><br>               
                 <a href="clase_4/Trabajo4Index.php">Herencia y sobrecarga</a>
                 <br><br>
-                <a href="clase_4_2/Trabajo4-2Index.php">acoplamiento</a>
+                <a href="clase_4_2/Trabajo4-2Index.php">Acoplamiento</a>
                 <br><br>
-                <a href="clase_4_3/Trabajo4-3Index.php">cohesion, polimorfismo</a>
+                <a href="clase_4_3/Trabajo4-3Index.php">Cohesion</a>
+                <br><br>
+                <a href="clase_4_4/Trabajo4-4Index.php">Polimorfismo</a>
                 <br><br>
                 <img src="/assets/img/piezas-de-construccion.jpg" width="300" heigth="300">
             </div>
