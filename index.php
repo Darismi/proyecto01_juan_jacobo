@@ -32,6 +32,8 @@
                 <br><br>
                 <a href="clase_4_4/Trabajo4-4Index.php">Polimorfismo</a>
                 <br><br>
+                <a href="trabajo_5/Trabajo5Index.php">Trabajo 5 tipos</a>
+                <br><br>
                 <img src="/assets/img/piezas-de-construccion.jpg" width="300" heigth="300">
             </div>
 
