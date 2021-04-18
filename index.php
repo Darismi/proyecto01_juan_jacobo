@@ -40,12 +40,11 @@
                 <br><br>
                 <a href="clase_5_actividad/clase_5_actividad_Index.php">Actividad Clase 5</a>
                 <br><br>
-                <a href="clase6-3/ReflectionIndex.php">Reflections</a>
+                <a href="clase6-3/ReflectionIndex.php">Reflections 1</a>
                 <br><br>
-            </div>
-
-            
-
+                <a href="clase6-4/Reflection2Index.php">Reflections 2</a>
+                <br><br>                
+            </div>        
         </div>
     </body>
 </html>
