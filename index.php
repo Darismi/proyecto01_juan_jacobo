@@ -38,14 +38,16 @@
                 <br><br>
                 <a href="clase_5_3/clase_5_3Index.php">Manejo de Excepciones</a>
                 <br><br>
-                <a href="clase_5_actividad/clase_5_actividad_Index.php">Actividad Clase 5</a>
+                <a href="clase_6_3/ReflectionIndex.php">Reflection 1</a>
                 <br><br>
-                <a href="clase6-3/ReflectionIndex.php">Reflections 1</a>
+                <a href="clase_6_4/Reflection2Index.php">Reflection 2</a>
+                <br><br>                
+                <a href="clase_6_5/Reflection3Index.php">Reflection 3</a>
                 <br><br>
-                <a href="clase6-4/Reflection2Index.php">Reflections 2</a>
-                <br><br>                
-                <a href="clase6-5/Reflection3Index.php">Reflections 3</a>
-                <br><br>                
+                <a href="clase_6_2/clase_6_2Index.php">Propiedades y Metodos Estaticos</a>
+                <br><br> 
+                <a href="clase_6_1/clase_6_1Index.php">Dependency Injection</a>
+                <br><br>                  
             </div>        
         </div>
     </body>
